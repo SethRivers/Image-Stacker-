@@ -2,7 +2,8 @@
  * @file stacker.h
  * @author V-Types
  * @date 2024-02-27
- * @brief (wip)
+ * @brief The .h file for the Image Stacker assignment. Here, everything that is utilized in the .CPP
+ * file is organized and initialized for use.
  * 
  * 
  */
