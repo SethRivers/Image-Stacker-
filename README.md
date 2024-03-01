@@ -15,7 +15,7 @@ Input number of images you want stacked together
 Wait for message, then view the newly stacked PPM file
 
 # Challenges:
-At first, considering how to read in pixel data from every single ppm file into a vector AND being able to add that data together appropriately before averaging was the biggest challenge. We then realized that just reading in one PPM file's data and adding future values to that data and just averaging later was a much better route.
+At first, considering how to read in pixel data from every single ppm file into a vector AND being able to add that data together appropriately before averaging was the biggest challenge. We then realized that just reading in one PPM file's data and adding future values to that data and just averaging later was a much better route. 
 
 During creation of the program, there was an issue where outputted images were too dark and STILL unfocused. We then realized we were continually overwriting the vector's contents with the final PPM file in a sequence's data AND averaging that data, making it still unfocused but also darker. We fixed this apparent issue by changing vector.reserve() to vector.resize(), which turned out much better for the situation in every aspect.
 
@@ -24,6 +24,6 @@ Besides checking over code as we programmed and corrected each other's mistakes,
 
 # Authors:
 This program was developed by the ν-Types group, which consists of the following members:
-Jacqueline Bybee
-Seth Rivers
-Xander Butler
+Jacqueline Bybee,
+Seth Rivers,
+Xander Butler,
