@@ -26,4 +26,4 @@ Besides checking over code as we programmed and corrected each other's mistakes,
 This program was developed by the ν-Types group, which consists of the following members:
 Jacqueline Bybee,
 Seth Rivers,
-Xander Butler,
+Xander Butler
