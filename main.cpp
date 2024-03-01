@@ -2,7 +2,8 @@
  * @file main.cpp
  * @authors V-Types
  * @date 2024-02-27
- * @brief The main file for Image Stacker 
+ * @brief The main file for Image Stacker. Here, the code neccesary for starting the program up is
+ * stored, and ready for user input.
  * 
  * 
  */
